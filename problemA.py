@@ -1,1 +1,0 @@
-n = print("People on the team: ")
